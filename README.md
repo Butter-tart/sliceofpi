@@ -1,2 +1,2 @@
-# sliceofpi.github.io
+# sliceofpi
 a website for my projects
